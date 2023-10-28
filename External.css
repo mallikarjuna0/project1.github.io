@@ -1,0 +1,11 @@
+*{
+
+    font-size: 50px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hwb(272 7% 65%);
+    border: 3px rgb(74, 19, 129) solid ;
+    background-color: cyan;
+    text-decoration:underline;
+    }
+   
